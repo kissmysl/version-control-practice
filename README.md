@@ -1,2 +1,2 @@
 # version-control-practice
-See on versioonihalduse harjutus GitHubis.
+See on versioonihalduse harjutus GitHubis..
